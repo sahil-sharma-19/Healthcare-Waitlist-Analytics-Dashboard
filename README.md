@@ -13,3 +13,13 @@ An interactive Power BI dashboard for healthcare institutions to monitor and ana
 
 - *Data Modeling*  
   Structuring data tables, defining relationships, and creating schemas to enable detailed drilldowns and analysis.
+## Data Source Information
+
+The sample dataset illustrated here has been *synthesized for demonstration purposes* in the Healthcare Waitlist Analytics Dashboard. It is modeled to reflect real-world healthcare operations and typical patient records, including waitlist status, appointment scheduling, case types, and specialty assignments.
+
+The fields and structure of the sample data are inspired by common attributes recorded in hospital waitlist and appointment management systems, such as:
+
+- Patient demographics (ID, name, age, gender)
+- Case and specialty information
+- Waitlist and appointment dates
+- Status tracking (e.g., waiting, complete).
