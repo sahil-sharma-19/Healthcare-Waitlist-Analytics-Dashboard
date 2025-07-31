@@ -51,3 +51,10 @@ The fields and structure of the sample data are inspired by common attributes re
 - *Secure & Shareable*
   - Built-in Power BI access controls and row-level security for protecting sensitive data.
   - Deploy dashboards securely via the Power BI Service for collaboration with healthcare teams.
+## Impact & Insights
+
+- Streamlines hospital operations by highlighting patient backlogs and optimizing scheduling.
+- Reduces wait times through timely, data-driven interventions.
+- Improves patient satisfaction by making waitlist processes transparent.
+- Enables leaders to make informed resource and staffing decisions.
+- Tracks KPIs to boost departmental accountability and support performance improvement.
