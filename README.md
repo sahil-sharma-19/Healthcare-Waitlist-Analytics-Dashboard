@@ -61,4 +61,4 @@ The fields and structure of the sample data are inspired by common attributes re
 ## Dashboard Preview
 
 ![Healthcare Waitlist Analytics Dashboard](https://github.com/sahil-sharma-19/Healthcare-Waitlist-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Summary%20Dashboard.png)
-![Healthcare Waitlist Analytics Dashboard]()
+![Healthcare Waitlist Analytics Dashboard](https://github.com/sahil-sharma-19/Healthcare-Waitlist-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Detail%20View%20Dashboard.png)
