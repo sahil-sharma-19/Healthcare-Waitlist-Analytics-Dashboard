@@ -58,5 +58,6 @@ The fields and structure of the sample data are inspired by common attributes re
 - Improves patient satisfaction by making waitlist processes transparent.
 - Enables leaders to make informed resource and staffing decisions.
 - Tracks KPIs to boost departmental accountability and support performance improvement.
-## Screenshots
-https://github.com/sahil-sharma-19/Healthcare-Waitlist-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Summary%20Dashboard.png
+## Dashboard Preview
+
+![Healthcare Waitlist Analytics Dashboard]()
