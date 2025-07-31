@@ -23,3 +23,31 @@ The fields and structure of the sample data are inspired by common attributes re
 - Case and specialty information
 - Waitlist and appointment dates
 - Status tracking (e.g., waiting, complete).
+## Features & Highlights
+
+- *Comprehensive Waitlist Monitoring*
+  - Track total patient waitlists across different case types (Inpatient, Outpatient, Day Case, etc.).
+  - Analyze month-over-month trends for better capacity planning.
+
+- *Case Type & Specialty Breakdown*
+  - Visualize distribution of patients by case type and medical specialty.
+  - Identify high-demand specialties and potential service bottlenecks.
+
+- *Dynamic Filtering & Drilldown*
+  - Filter data interactively by date range, case type, specialty, and age profile.
+  - Drill down into granular patient demographics and specific service lines.
+
+- *Age Profile Analytics*
+  - Get detailed insights into patient waitlists by age group.
+  - Identify cohorts with the longest average wait times.
+
+- *Key Performance Indicators (KPIs)*
+  - Monitor essential KPIs such as total waitlist, changes in monthly lists, and average/median wait times.
+
+- *Interactive Visualizations*
+  - Utilize pie/donut charts, bar and line graphs, cards, and slicers for intuitive data exploration.
+  - Toggle easily between summary and detailed views.
+
+- *Secure & Shareable*
+  - Built-in Power BI access controls and row-level security for protecting sensitive data.
+  - Deploy dashboards securely via the Power BI Service for collaboration with healthcare teams.
