@@ -2,7 +2,7 @@
 An interactive Power BI dashboard for healthcare institutions to monitor and analyze patient waitlists, case types, specialty trends, and demographic profiles. This project empowers healthcare administrators with actionable insights to optimize patient flow.
 ## Key Technologies Used
 
--*Power BI Desktop*  
+- *Power BI Desktop*  
   The main tool for designing, building, and publishing interactive dashboards and reports.
 
 -*Power Query Editor*  
